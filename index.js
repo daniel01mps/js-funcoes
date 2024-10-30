@@ -31,7 +31,6 @@ function mostrarInformações(nome, idade, naturalidade = 'Brasileiro(a)'){
  * @returns {number}    
  */
 const somar = (numero1, numero2) => {
-    return numero1 + numero2;
 }
 
 const somarAntigo = (numero1, numero2) => {
